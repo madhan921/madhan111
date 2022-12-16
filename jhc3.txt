@@ -1,1 +1,2 @@
 learnt about git
+git is a fast version tool
